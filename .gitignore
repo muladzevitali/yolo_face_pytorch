@@ -1,0 +1,4 @@
+*.weights
+media/outputs
+**__pycache__**
+
